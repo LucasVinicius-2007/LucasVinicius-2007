@@ -12,14 +12,7 @@ Meu nome é Lucas Vinicius Santos Correia, tenho 19 anos e sou natural de Pernam
       src="https://custom-icon-badges.demolab.com/badge/Instagram-@lucas__viniicius-e4405f?style=for-the-badge&labelColor=c13584&logo=instagram&logoColor=white"
     />
   </a>
-  <a href="https://www.linkedin.com/in/lucas-vinicius-06a4b13b3">
-    <img
-      alt="LinkedIn"
-      title="Conecte-se comigo no LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Lucas%20Vinicius-0a66c2?style=for-the-badge&labelColor=004182&logo=linkedin&logoColor=white"
-    />
-  </a>
-
+    
 </p>
 
 ---
